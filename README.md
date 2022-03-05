@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, my web name is Xentoshi and I'm political science graduate. 
+I'm looking for mentor! Please, reach out, would love to meet! 👋
 
-<!--
-**xentoshi/xentoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on cryptocurrency mining.
+- 🌱 I’m currently learning Three.js and Web3 technologies.
+- 👯 I’m looking to collaborate on Javascript, Three.js and Web3 technologies.
+- 🤔 I’m looking for help with Web3 technologies. 
+- 💬 Ask me about cryptocurrency mining, political science.
+- 📫 How to reach me: xentoshi@protonmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I loooooove dance! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
