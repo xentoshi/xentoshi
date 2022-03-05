@@ -1,4 +1,4 @@
-### Hi there, my web name is Xentoshi and I'm political science graduate. 
+### Hi there, my web name is Xentoshi and I'm political science graduate shifting career to tech. 
 I'm looking for mentor! Please, reach out, would love to meet! 👋
 
 
@@ -9,5 +9,5 @@ I'm looking for mentor! Please, reach out, would love to meet! 👋
 - 💬 Ask me about cryptocurrency mining, political science.
 - 📫 How to reach me: xentoshi@protonmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I loooooove dance! 
+- ⚡ Fun fact: I love dance!
 
