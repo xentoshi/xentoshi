@@ -1,8 +1,6 @@
 ### こんにちは, 私の名前はXentoshiです 👋
 
-- 🔭 I’m currently working on Three.js and Web3 technologies.
-- 🌱 I’m currently learning Three.js and Web3 technologies.
-- 🦄 Also hangout with frens @ https://buildspace.so/.
+- 🔭 I’m currently working as a Developer Relations Engineer at [Drift Protocol](https://www.drift.trade/)
 - 📫 How to reach me: [@xentoshi](https://twitter.com/xentoshi "@xentoshi")
 
 
